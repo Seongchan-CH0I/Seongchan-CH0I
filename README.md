@@ -1,6 +1,6 @@
 <div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,there%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=.%20%F0%9F%A4%97)
 </div>
 
 <div>
